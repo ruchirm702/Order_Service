@@ -1,10 +1,11 @@
 # Order Service Microservice
 
-[![Build Status](https://img.shields.io/travis/ruchirm702/Order_Service.svg)](https://travis-ci.com/ruchirm702/Order_Service)
-[![Coverage Status](https://img.shields.io/codecov/c/github/ruchirm702/Order_Service.svg)](https://codecov.io/gh/ruchirm702/Order_Service)
-[![License](https://img.shields.io/github/license/ruchirm702/Order_Service.svg)](LICENSE)
-[![Java Version](https://img.shields.io/badge/java-11-blue.svg)](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html)
-[![Spring Boot](https://img.shields.io/badge/spring--boot-2.7.5-brightgreen.svg)](https://spring.io/projects/spring-boot)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![FakeStore](https://img.shields.io/badge/FakeStore-FF4500?style=for-the-badge&logo=fakestore&logoColor=white)
 
 ## Project Overview
 The Order Service microservice handles CRUD operations for managing orders.
